@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666388834 source:c:\users\sofibarbona\onedrive\facultad\1. programación de computadoras\6. punteros\ejercicios\vacunas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1685030549 source:d:\materias dadas\1. programación de computadoras\6. punteros\ejercicios\vacunas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
